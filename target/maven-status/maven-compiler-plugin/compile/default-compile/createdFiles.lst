@@ -14,6 +14,7 @@ com/test/signatureGenerator/controller/VerifySignatureOpenAPI.class
 com/test/signatureGenerator/VASignature.class
 com/test/signatureGenerator/controller/GenerateSignatureController.class
 com/test/signatureGenerator/model/SeamlessData.class
+com/test/signatureGenerator/SNAPOpenAPI.class
 com/test/signatureGenerator/model/GenerateSignatureResult.class
 com/test/signatureGenerator/model/GenerateSignatureDynamicallyRequest.class
 com/test/signatureGenerator/controller/GenerateSignatureTokenController.class
